@@ -1,0 +1,10 @@
+# Text-Based Battle Game Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python version: 3.6+
+# Standard library modules used:
+# - random (for combat mechanics and enemy generation)
+# - os (for cross-platform console clearing)
+# - json (for save/load functionality)
+# - typing (for type hints)
